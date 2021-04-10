@@ -1,2 +1,2 @@
-# Monte-carlo-deep-Q-learning-
-Monte carlo deep Q learning
+# Monte-carlo-deep-reinforcement-learning-
+Monte carlo deep reinforcement learning
